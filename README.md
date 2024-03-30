@@ -3,10 +3,13 @@
 -  How to reach me on josebentomachaiela@gmail.com
 
   # My Skills
-  ![javascript](https://github.com/jose-bento-machaiela/Multstep-Form/assets/163362206/40c81323-582c-4d98-aef7-4fadae4c18e5) 
-  ![react](https://github.com/jose-bento-machaiela/Multstep-Form/assets/163362206/b43646aa-31fc-46f3-819c-54aabe4e4647) 
-  ![css](https://github.com/jose-bento-machaiela/Multstep-Form/assets/163362206/febce52c-95d5-442d-949e-0a58f70d984a) 
-  ![html](https://github.com/jose-bento-machaiela/Multstep-Form/assets/163362206/10a697b7-7ee2-4e53-a31a-da321ce4ed78)
+  
+  <img align="center" alt="react" height="40" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="js" height="40" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" >
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+   
+   
 
 
 
