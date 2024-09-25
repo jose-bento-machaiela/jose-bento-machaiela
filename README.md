@@ -21,7 +21,7 @@
 <div> 
   <a href = "mailto:josebentomachaiela@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/josebentomachaiela/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-bento-machaiela-12ab03212/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNKmg6KvESG21S%2Fm0St9zbw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=whit" target="_blank"></a>  <a href="https://whatsapp.com/dl/code=wyLh4xTHtH" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-bento-machaiela-12ab03212/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNKmg6KvESG21S%2Fm0St9zbw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=whit" target="_blank"></a>  <a href="https://whatsapp.com/dl/code=UhNvtHGZfz" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 </div>
 
