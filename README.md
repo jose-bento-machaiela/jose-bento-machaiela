@@ -1,4 +1,4 @@
-#  Olá! Eu sou o José Machaiela
+#  Olá! Eu sou José Machaiela
 -  Sou desenvolvedor web e mobile.
 -  Sou apaixonado por tecnologia, sempre busco por aprendizado e evolução para criar experiências digitais excepcionais.
 
